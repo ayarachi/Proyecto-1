@@ -1,1 +1,3 @@
-# Proyecto-1
+# Ejercicios prep
+
+Aqui voy a desarrollar ejercicios de preparacion para bootcamp
